@@ -1,0 +1,38 @@
+div{
+    width: 400px;
+    height: 250px;
+    top: 50%;
+    left: 50%;
+    margin-top: -220px;
+    margin-left: -200px;
+    text-align: center;
+    background-color: rgb(235, 133, 74);
+    position: fixed;
+    border: 8px solid rgb(121, 118, 118);
+    border-radius: 20px;
+}
+
+input{
+    width: 95%;
+    border: 1px solid black;
+}
+
+input:hover{
+    background-color: wheat;
+}
+
+body{
+    background: url(img/background2.png);
+    background-repeat: no-repeat;
+    background-size: 1367px 660px;
+}
+
+button{
+    width: 30%;
+    
+
+}
+
+button:hover{
+    background-color: rgb(184, 180, 180);
+}

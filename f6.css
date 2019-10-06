@@ -1,0 +1,38 @@
+div{
+    width: 400px;
+    height: 300px;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -200px;
+    text-align: center;
+    background-color: rgb(129, 248, 248);
+    position: fixed;
+    border: 8px solid rgba(255, 0, 0, 0.904);
+    border-radius: 20px;
+}
+
+input{
+    width: 95%;
+    border: 1px solid black;
+}
+
+input:hover{
+    background-color: wheat;
+}
+
+body{
+    background: url('img/reset.jpg');
+    background-repeat: no-repeat;
+    background-size: 1370px 657px; 
+}
+
+button{
+    width: 30%;
+    
+
+}
+
+button:hover{
+    background-color: rgb(184, 180, 180);
+}
